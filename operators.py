@@ -1,0 +1,13 @@
+print("arithmatic operator")
+a = int(input('Enter a value:'))
+b = int(input('Enter 2nd value:'))
+print('a - b is', a-b)
+print('a * b is', a*b)
+print('a ** b is', a**b)
+print('a / b is', a/b)
+print('a // b is', a//b)
+print('Membership operator')
+s = "hello world"
+print('s = ', s)
+print('hell in s?\n','hell' in s)
+print('He not in s?\n','He' not in s)
